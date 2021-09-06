@@ -1,0 +1,17 @@
+- Python does not use a delimiter to indicate the end of the line
+
+SYNTAX ERROR
+- DEF signals to INTERPRETER that the strings/values following are the NAME of the FUNCTION
+- SYNTAX error for forgetting colon (:) or missing brackets not very helpful
+
+INDENTATION ERROR
+- Stick the same number of indentation SPACES
+- Python INSTEAD uses WHITESPACES to indicate one section from another section
+- safest to use TAB
+
+FUNCTION CALL ERROR
+- If forget to include () when referring to function in script, terminal error will show a NUMBER HASH as the memory address containing the hello_world function
+
+VARIABLES
+- Empty () following hello_world indicate no variables
+- DEFINE variables for this function, DECLARE them within the DEF line's set of brackets
