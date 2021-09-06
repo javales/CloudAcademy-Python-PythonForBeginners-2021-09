@@ -15,3 +15,10 @@ FUNCTION CALL ERROR
 VARIABLES
 - Empty () following hello_world indicate no variables
 - DEFINE variables for this function, DECLARE them within the DEF line's set of brackets
+- Python can INTERPRET and DEFINE the TYPE of variable for you
+
+SUMMARY
+- Wrote Hello World Program
+- Run Program
+- Understood Failure Reasons
+- Fix Failure Reasons
